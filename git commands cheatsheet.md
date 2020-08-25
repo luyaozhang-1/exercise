@@ -28,3 +28,15 @@
 
 
 **Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merge*.
+
+
+To keep some files only for local, go to the top level, enter the following, and save it as .gitignore, and then push the file to the remote repository.
+.gitignore
+#Ignore the file notes.text in the temp folder
+temp/notes.txt
+
+#Ignore the whole temp folder
+temp/
+
+*Ignore all text files in the temp folder
+temp/*.txt
