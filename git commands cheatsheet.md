@@ -9,5 +9,3 @@
 |rm A|Remove the file A|
 |git log|Show the log|
 |git log --oneline|Show each entry in one line|
-
-*note*
