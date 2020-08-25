@@ -25,4 +25,4 @@
 **Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merge*.
 
 
-This is a test
+This is a test. I should delete this later. This is for the merge later.
