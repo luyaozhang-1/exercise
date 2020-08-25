@@ -23,3 +23,6 @@
 |git stash save "A"|Save the stash under the name A.|
 
 **Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merge*.
+
+
+This is master.
