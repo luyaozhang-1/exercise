@@ -25,3 +25,5 @@
 |git merge A|Merge branch A to the brunch that you are currently on.|
 
 **Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merge*.
+
+This is an extra line in master.
