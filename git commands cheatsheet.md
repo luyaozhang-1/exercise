@@ -23,5 +23,6 @@
 |git stash save "A"|Save the stash under the name A.|
 |git diff A...B|Compare branch A with B|
 |git merge A|Merge branch A to the brunch that you are currently on.|
+|git clone A|Clone the repository to the location where you are. A is the URL of a repository.|
 
 **Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merge*.
