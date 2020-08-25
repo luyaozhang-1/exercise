@@ -14,4 +14,4 @@
 |git checkout tags/A|Check out tag A|
 |git push origin A|Push tag A|
 
-**Note** Git pull is to pull back the remote repository to your local repository. git pull = git fetch + get merge.
+**Note** Git pull is to pull back the remote repository to your local repository. *git pull* covers both *git fetch* and *get merg*e.
