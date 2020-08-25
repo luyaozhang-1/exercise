@@ -12,4 +12,4 @@
 |git tag -a A -m B|Add a tag A with B as the description|
 |git tag|List all tags|
 |git checkout tags/A|Check out tag A|
-git push origin A|Push tag A|
+|git push origin A|Push tag A|
